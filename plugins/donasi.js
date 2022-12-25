@@ -6,7 +6,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
     return conn.sendButton(m.chat, 'Donasi Pm Owner aja.\n❏  :v', 'Makasih, thanks for you donate...', img2, [["MENU", usedPrefix + "menu"], ["OWNER", usedPrefix + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://instagram.com/l4c1f2r",
+                mediaUrl: "https://instagram.com/noname_0380?igshid=YmMyMTA2M2Y=",
                 mediaType: "VIDEO",
                 title: 'Donasi To HENDRA LUBECK🇮🇩',
                 body: bottime,
